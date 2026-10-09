@@ -1,0 +1,1 @@
+This repository contains my practice files for Stats 21. I am learning python an GitHub.
